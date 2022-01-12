@@ -1,0 +1,8 @@
+[begin] (#apps_9870)
+   [submenu] (Browsers) {}
+      [exec] (Midori) {midori}
+   [end]
+   [submenu] (Shells) {}
+      [exec] (Terminator) {terminator}
+   [end]
+[end]
